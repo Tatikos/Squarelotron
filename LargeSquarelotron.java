@@ -1,4 +1,4 @@
-package hw4.squarelotron;
+
 
 /**
  * The LargeSquarelotron class extends the Squarelotron class and provides

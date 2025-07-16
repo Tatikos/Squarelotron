@@ -1,4 +1,4 @@
-package hw4.squarelotron;
+
 
 /**
  * The SmallSquarelotron class extends the Squarelotron class and represents a
