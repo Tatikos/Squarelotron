@@ -21,7 +21,6 @@ Squarelotron is a square matrix that supports different flip and rotation operat
 ### Ring Operations
 - **Outer Ring**: Operates on the perimeter elements
 - **Inner Ring**: Operates on the interior elements
-```
 
 ## Compilation & Testing
 
