@@ -1,5 +1,3 @@
-package hw4.squarelotron;
-
 public interface SquarelotronMethods {
     public int[] numbers();
     public Squarelotron upsideDownFlip(String ring);

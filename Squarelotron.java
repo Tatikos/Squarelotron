@@ -1,4 +1,4 @@
-package hw4.squarelotron;
+
 
 /**
  * The Squarelotron class represents a square matrix and provides methods for
